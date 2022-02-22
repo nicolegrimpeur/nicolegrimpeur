@@ -3,6 +3,12 @@
 ## 🙋 Qui suis-je ?
 Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à l'[ISEN Lille](https://www.isen-lille.fr)
 
+## 📋 Mes projets
+### Projets pour ma résidence universitaire
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=interfaceAppAll&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡ Technologies
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -22,14 +28,15 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 ![NPM](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white)
 ![Filezilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
 
 ### Développement
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-181717?logo=jetbrains&logoColor=white) &ensp;
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
-![Intellij Idea](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-6b57ff?logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-07c3f2?logo=webstorm&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/IntelliJ-087cfa?logo=intellijidea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-1ac9a3?logo=clion&logoColor=white)
 
 ### Photo
 ![Adobe](https://img.shields.io/badge/Adobe-DA1F26?logo=adobecreativecloud&logoColor=white) &ensp;
