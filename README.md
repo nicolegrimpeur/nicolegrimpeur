@@ -12,6 +12,12 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 [![App All](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
 [![Interface App ALl](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=interfaceAppAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/interfaceAppAll)
 
+### Projets avec mon école
+
+[![Projet THL](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/ProjetTHL)
+[![App All](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=smarthome&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
+[![Interface App ALl](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=projetWebCir2&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/interfaceAppAll)
+
 ## ⚡ Technologies
 
 ### Web
