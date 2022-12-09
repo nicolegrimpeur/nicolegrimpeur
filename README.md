@@ -2,9 +2,15 @@
 
 ## 🙋 Qui suis-je ?
 
-Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à l'[ISEN Lille](https://www.isen-lille.fr)
+Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à l'[ISEN Lille](https://www.junia.com/fr)
 
 ## 📋 Mes projets
+
+### Projets avec mon école
+
+[![Serveroo](https://github-readme-stats.vercel.app/api/pin/?username=ISEN-Projet-M1&repo=Serveroo-Front&theme=vision-friendly-dark)](https://github.com/ISEN-Projet-M1/Serveroo-Front)
+[![Projet THL](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/ProjetTHL)
+[![App All](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=smarthome&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
 
 ### Projets pour ma résidence universitaire
 
@@ -12,27 +18,22 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 [![App All](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
 [![Interface App ALl](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=interfaceAppAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/interfaceAppAll)
 
-### Projets avec mon école
-
-[![Projet THL](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/ProjetTHL)
-[![App All](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=smarthome&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
-[![Interface App ALl](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=projetWebCir2&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/interfaceAppAll)
-
 ## ⚡ Technologies
 
 ### Web
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 
 ### Frameworks
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
 ### Outils
 
@@ -52,6 +53,10 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ-087cfa?logo=intellijidea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-1ac9a3?logo=clion&logoColor=white)
 
+### Autres
+
+![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ### Photo
 
 ![Adobe](https://img.shields.io/badge/Adobe-DA1F26?logo=adobecreativecloud&logoColor=white) &ensp;
@@ -62,7 +67,6 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:nicolas.barrat@student.junia.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nicolas-barrat/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.linkedin.com/in/nicolas-barrat/)
 
 ## ☕ N'hésitez pas à supporter mes projets !
 
