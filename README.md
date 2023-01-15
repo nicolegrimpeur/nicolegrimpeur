@@ -4,19 +4,30 @@
 
 Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à l'[ISEN Lille](https://www.junia.com/fr)
 
+## Informations supplémentaires
+
+Plus d'informations et détails sur mon [site web](https://nicob.ovh)
+
 ## 📋 Mes projets
+
+### Projets personnels
+
+[![CV perso](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=CVPersoIonic&theme=github_dark)](https://github.com/nicolegrimpeur/CVPersoIonic)
 
 ### Projets avec mon école
 
-[![Serveroo](https://github-readme-stats.vercel.app/api/pin/?username=ISEN-Projet-M1&repo=Serveroo-Front&theme=vision-friendly-dark)](https://github.com/ISEN-Projet-M1/Serveroo-Front)
-[![Projet THL](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/ProjetTHL)
-[![App All](https://github-readme-stats.vercel.app/api/pin/?username=Projet-CIR2&repo=smarthome&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
+[![Serveroo](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=ISEN-Projet-M1&repo=Serveroo-Front&theme=github_dark)](https://github.com/ISEN-Projet-M1/Serveroo-Front)
+[![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=github_dark)](https://github.com/nicolegrimpeur/ProjetTHL)
 
 ### Projets pour ma résidence universitaire
 
-[![Plannings](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/Plannings)
-[![App All](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/appAll)
-[![Interface App ALl](https://github-readme-stats.vercel.app/api/pin/?username=nicolegrimpeur&repo=interfaceAppAll&theme=vision-friendly-dark)](https://github.com/nicolegrimpeur/interfaceAppAll)
+[![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=github_dark)](https://github.com/nicolegrimpeur/Plannings)
+[![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=github_dark)](https://github.com/nicolegrimpeur/appAll)
+
+### Un package npm pour mes serveurs Web Angular
+
+[![Angular Web Server](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=angularWebServer&theme=github_dark)](https://github.com/nicolegrimpeur/appAll)
+
 
 ## ⚡ Technologies
 
@@ -52,6 +63,7 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 ![WebStorm](https://img.shields.io/badge/WebStorm-07c3f2?logo=webstorm&logoColor=white)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ-087cfa?logo=intellijidea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-1ac9a3?logo=clion&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 
 ### Autres
 
@@ -74,4 +86,4 @@ Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à
 
 ## 📈 Mes stats Github
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nicolegrimpeur&show_icons=true&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&theme=github_dark&count_private=true)
