@@ -48,13 +48,30 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ### Outils
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=white)
+
 ![Filezilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
+
+### OS / Environnement
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+
+![GNOME Terminal](https://img.shields.io/badge/GNOME_Terminal-241F31?logo=gnome&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+
+### Machines virtuelles
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMWare-607078?logo=vmware&logoColor=white)
 
 ### Développement
 
@@ -64,6 +81,8 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ-087cfa?logo=intellijidea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-1ac9a3?logo=clion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ### Autres
 
@@ -79,10 +98,6 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:nicolas.barrat@student.junia.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nicolas-barrat/)
-
-## ☕ N'hésitez pas à supporter mes projets !
-
-<a href="https://www.buymeacoffee.com/nicolegrimpeur" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 📈 Mes stats Github
 
