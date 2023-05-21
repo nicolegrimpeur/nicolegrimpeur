@@ -2,11 +2,12 @@
 
 ## 🙋 Qui suis-je ?
 
-Je m'appelle Nicolas Barrat et je suis actuellement étudiant en informatique à l'[ISEN Lille](https://www.junia.com/fr)
+Je m'appelle Nicolas Barrat et je suis actuellement étudiant spécialisé en Cybersécurité à [JUNIA ISEN Lille](https://www.junia.com/fr)
 
 ## Informations supplémentaires
 
 Plus d'informations et détails sur mon [site web](https://nicob.ovh)
+
 
 ## 📋 Mes projets
 
@@ -16,17 +17,14 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ### Projets avec mon école
 
-[![Serveroo](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=ISEN-Projet-M1&repo=Serveroo-Front&theme=github_dark)](https://github.com/ISEN-Projet-M1/Serveroo-Front)
+[![Serveroo](https://avatars.githubusercontent.com/u/120017625?s=100)](https://github.com/ISEN-Projet-M1)
+
 [![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=github_dark)](https://github.com/nicolegrimpeur/ProjetTHL)
 
 ### Projets pour ma résidence universitaire
 
 [![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=github_dark)](https://github.com/nicolegrimpeur/Plannings)
 [![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=github_dark)](https://github.com/nicolegrimpeur/appAll)
-
-### Un package npm pour mes serveurs Web Angular
-
-[![Angular Web Server](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=angularWebServer&theme=github_dark)](https://github.com/nicolegrimpeur/appAll)
 
 
 ## ⚡ Technologies
@@ -88,11 +86,6 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-### Photo
-
-![Adobe](https://img.shields.io/badge/Adobe-DA1F26?logo=adobecreativecloud&logoColor=white) &ensp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-00c8ff?logo=adobelightroom&logoColor=white)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
 
