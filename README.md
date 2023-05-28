@@ -13,18 +13,18 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ### Projets personnels
 
-[![CV perso](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=CVPersoIonic&theme=github_dark)](https://github.com/nicolegrimpeur/CVPersoIonic)
+[![CV perso](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=CVPersoIonic&theme=dark&hide_border=true)](https://github.com/nicolegrimpeur/CVPersoIonic)
 
 ### Projets avec mon école
 
 [![Serveroo](https://avatars.githubusercontent.com/u/120017625?s=100)](https://github.com/ISEN-Projet-M1)
 
-[![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=github_dark)](https://github.com/nicolegrimpeur/ProjetTHL)
+[![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=dark&hide_border=true)](https://github.com/nicolegrimpeur/ProjetTHL)
 
 ### Projets pour ma résidence universitaire
 
-[![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=github_dark)](https://github.com/nicolegrimpeur/Plannings)
-[![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=github_dark)](https://github.com/nicolegrimpeur/appAll)
+[![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=dark&hide_border=true)](https://github.com/nicolegrimpeur/Plannings)
+[![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=dark&hide_border=true)](https://github.com/nicolegrimpeur/appAll)
 
 
 ## ⚡ Technologies
@@ -38,23 +38,49 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
+### Autres langages
+
+![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=white)
+
 ### Frameworks
 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
-### Outils
+### Conteneurs
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+### Git
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white)
 
+### BDD
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+### NodeJs
+
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/Npm-CB3837?logo=npm&logoColor=white)
 
-![Filezilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
+### Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+### Reverse proxy
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 ### OS / Environnement
 
@@ -79,12 +105,9 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ-087cfa?logo=intellijidea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-1ac9a3?logo=clion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-### Autres
-
-![Python3](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
@@ -94,4 +117,8 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ## 📈 Mes stats Github
 
-![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats-nicolegrimpeur.vercel.app/api/top-langs/?username=nicolegrimpeur&layout=compact&theme=dark&hide_border=true)
+
+[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolegrimpeur&no-frame=true&theme=darkhub)](https://github.com/nicolegrimpeur?tab=achievements)
+
+![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&theme=dark&count_private=true&hide_border=true)
