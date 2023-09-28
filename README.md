@@ -13,18 +13,18 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ### Projets personnels
 
-[![CV perso](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=CVPersoIonic&hide_border=true)](https://github.com/nicolegrimpeur/CVPersoIonic)
+[![CV perso](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=CVPersoIonic&theme=swift)](https://github.com/nicolegrimpeur/CVPersoIonic)
 
 ### Projets avec mon école
 
 [![Serveroo](https://avatars.githubusercontent.com/u/120017625?s=100)](https://github.com/ISEN-Projet-M1)
 
-[![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&hide_border=true)](https://github.com/nicolegrimpeur/ProjetTHL)
+[![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=swift)](https://github.com/nicolegrimpeur/ProjetTHL)
 
 ### Projets pour ma résidence universitaire
 
-[![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&hide_border=true)](https://github.com/nicolegrimpeur/Plannings)
-[![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&hide_border=true)](https://github.com/nicolegrimpeur/appAll)
+[![Plannings](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=Plannings&theme=swift)](https://github.com/nicolegrimpeur/Plannings)
+[![App All](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=appAll&theme=swift)](https://github.com/nicolegrimpeur/appAll)
 
 
 ## ⚡ Technologies
@@ -117,8 +117,8 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ## 📈 Mes stats Github
 
-![Top Langs](https://github-readme-stats-nicolegrimpeur.vercel.app/api/top-langs/?username=nicolegrimpeur&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-nicolegrimpeur.vercel.app/api/top-langs/?username=nicolegrimpeur&layout=compact&theme=swift)
 
-[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolegrimpeur&no-frame=truehub)](https://github.com/nicolegrimpeur?tab=achievements)
+[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolegrimpeur&no-frame=truehub&theme=swift)](https://github.com/nicolegrimpeur?tab=achievements)
 
-![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&count_private=true&hide_border=true)
+![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&count_private=true&theme=swift)
