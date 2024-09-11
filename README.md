@@ -2,7 +2,9 @@
 
 ## 🙋 Qui suis-je ?
 
-Je m'appelle Nicolas Barrat et je suis actuellement étudiant spécialisé en Cybersécurité à [JUNIA ISEN Lille](https://www.junia.com/fr)
+Je m'appelle Nicolas Barrat et je suis actuellement Ingénieur en sécurité informatique.
+
+Récemment diplomé de l'école d'ingénieur [JUNIA ISEN Lille](https://www.junia.com/fr), avec une spécialisation en informatique, réseaux, et en cybersécurité.
 
 ## Informations supplémentaires
 
@@ -48,6 +50,7 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ### Conteneurs
 
