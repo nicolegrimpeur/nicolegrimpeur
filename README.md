@@ -19,7 +19,7 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ### Projets avec mon école
 
-[![Serveroo](https://avatars.githubusercontent.com/u/120017625?s=100)](https://github.com/ISEN-Projet-M1)
+[![Serveroo](https://avatars.githubusercontent.com/u/120017625?s=100)](https://github.com/Serveroo)
 
 [![Projet THL](https://github-readme-stats-nicolegrimpeur.vercel.app/api/pin/?username=nicolegrimpeur&repo=ProjetTHL&theme=swift)](https://github.com/nicolegrimpeur/ProjetTHL)
 
