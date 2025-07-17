@@ -120,8 +120,8 @@ Plus d'informations et détails sur mon [site web](https://nicob.ovh)
 
 ## 📈 Mes stats Github
 
-![Top Langs](https://github-readme-stats-nicolegrimpeur.vercel.app/api/top-langs/?username=nicolegrimpeur&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolegrimpeur&layout=compact&theme=swift)
 
 [![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolegrimpeur&no-frame=truehub&theme=swift)](https://github.com/nicolegrimpeur?tab=achievements)
 
-![Stats](https://github-readme-stats-nicolegrimpeur.vercel.app/api?username=nicolegrimpeur&show_icons=true&count_private=true&theme=swift)
+![Stats](https://github-readme-stats.vercel.app/api?username=nicolegrimpeur&show_icons=true&count_private=true&theme=swift)
