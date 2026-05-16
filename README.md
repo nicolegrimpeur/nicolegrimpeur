@@ -1,6 +1,6 @@
 # Nicolas Barrat
 
-Ingénieur en cybersécurité @ Maxxing.
+Ingénieur en cybersécurité @ [Maxxing](https://maxxing.com).
 
 Spécialisé dans :
 - sécurité des infrastructures
@@ -16,7 +16,7 @@ Spécialisé dans :
 ### SecretLink
 Plateforme de partage de secrets à usage unique et sécurisé.
 
-→ [Voir le projet](https://github.com/SecretLink)
+→ [Voir le projet](https://github.com/nicolegrimpeur/SecretLink)
 
 ### Plateforme d'hébergement étudiante
 Plateforme d'hébergement basée sur Kubernetes, conçue pour les projets et déploiements étudiants.
